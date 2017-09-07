@@ -22,4 +22,12 @@ Materials for git workshops taught by Northwestern IT Research Computing Service
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) diagrams common git terms and operations
 
+## Git and R
+
+[Happy Git with R](http://happygitwithr.com/): from UBC Stat 545 and Jenny Bryan's team; includes both an introduction to git relevant to anyone, and information on using git from RStudio
+
+[Github Quickstart for Scientists](https://rawgit.com/nazrug/Quickstart/master/GithubQuickstart.html): aims just at teaching the workflow that many scientists use, and shows you how to do it in R
+
+
+
 
