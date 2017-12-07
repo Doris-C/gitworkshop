@@ -22,8 +22,6 @@ Materials for git workshops taught by Northwestern IT Research Computing Service
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) diagrams common git terms and operations
 
-[Pro Git](https://git-scm.com/book/en/v2): this book, available free online, is an excellent resource for learning how to use Git, with chapters on intermediate and advanced topics such as branching and merging.
-
 ## Git and R
 
 [Happy Git with R](http://happygitwithr.com/): from UBC Stat 545 and Jenny Bryan's team; includes both an introduction to git relevant to anyone, and information on using git from RStudio
