@@ -2,6 +2,12 @@
 
 Materials for git workshops taught by Northwestern IT Research Computing Services.
 
+# Setup
+
+If you do not already have Git installed, you can download an installer at [http://git-scm.com/](http://git-scm.com/).
+
+Windows users can [download a nano installer here](https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe). We will use nano to edit files during the workshop. Mac and Linux users should already have nano installed.
+
 # Resources
 
 [Software Carpentry: Git and GitHub](http://swcarpentry.github.io/git-novice/): workshop materials, and videos of instrucotrs (not from Northwestern) giving the workshop: [video 1](https://www.youtube.com/watch?v=hKFNPxxkbO0) and [video 2](https://www.youtube.com/playlist?list=PLkBeePYo-_VCXtMNGDboOL66V-P2-jAoM)
