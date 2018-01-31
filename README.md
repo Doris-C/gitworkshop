@@ -28,6 +28,8 @@ Windows users can [download a nano installer here](https://github.com/swcarpentr
 
 [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) diagrams common git terms and operations
 
+[Sourcetree](https://www.sourcetreeapp.com/) is a cross-platform GUI for Git that works with GitHub and Bitbucket.
+
 ## Git and R
 
 [Happy Git with R](http://happygitwithr.com/): from UBC Stat 545 and Jenny Bryan's team; includes both an introduction to git relevant to anyone, and information on using git from RStudio
