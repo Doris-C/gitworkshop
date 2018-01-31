@@ -10,7 +10,7 @@ Windows users can [download a nano installer here](https://github.com/swcarpentr
 
 # Resources
 
-[Software Carpentry: Git and GitHub](http://swcarpentry.github.io/git-novice/): workshop materials, and videos of instrucotrs (not from Northwestern) giving the workshop: [video 1](https://www.youtube.com/watch?v=hKFNPxxkbO0) and [video 2](https://www.youtube.com/playlist?list=PLkBeePYo-_VCXtMNGDboOL66V-P2-jAoM)
+[Software Carpentry: Git and GitHub](http://swcarpentry.github.io/git-novice/): workshop materials, and videos of instructors (not from Northwestern) giving the workshop: [video 1](https://www.youtube.com/watch?v=hKFNPxxkbO0) and [video 2](https://www.youtube.com/playlist?list=PLkBeePYo-_VCXtMNGDboOL66V-P2-jAoM)
 
 [Try Git](https://try.github.io) interactive tutorial, suitable for complete beginners
 
